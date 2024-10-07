@@ -1,0 +1,3 @@
+npm installing express nodemon mongoose cors 
+dotenv: In the backend, dotenv is used to load environment variables from a .env file into process.env. It helps keep sensitive data (like API keys, database credentials) secure and separate from your source code.
+CORS: CORS (Cross-Origin Resource Sharing) is a mechanism that allows a server to specify who (domains) can access its resources. In Node.js, the cors package in npm is used to enable and configure CORS, allowing front-end apps from different domains to interact with your backend
